@@ -1,2 +1,2 @@
-# SidekickIssues
-Bug and Work Item database for Sidekick (clashsidekick.com)
+# Sidekick Issues
+Bug and Work Item database for (Sidekick)[http://clashsidekick.com]
